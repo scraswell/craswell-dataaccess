@@ -65,7 +65,7 @@
       <Project>{5fd7ef01-84f9-425b-95e9-41cf3cb258cb}</Project>
       <Name>Craswell.Encryption</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Craswell.Models\Craswell.Models.csproj">
+    <ProjectReference Include="..\craswell-models\Craswell.Models.csproj">
       <Project>{5fc375c7-cf88-4719-8575-0c5a9648615f}</Project>
       <Name>Craswell.Models</Name>
     </ProjectReference>
